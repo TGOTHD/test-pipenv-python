@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-speechrecognition = "*"
+speechrecognition = "3.10.0"
 
 [dev-packages]
 
